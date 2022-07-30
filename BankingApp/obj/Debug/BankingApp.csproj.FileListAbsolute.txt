@@ -1,0 +1,7 @@
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Istiaq\source\repos\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
